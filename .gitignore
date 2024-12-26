@@ -1,0 +1,33 @@
+<<<<<<< HEAD
+# Ignore compiled class files
+*.class
+
+# Ignore IDE configurations
+.idea/
+.vscode/
+
+# Ignore build directories
+/target/
+/bin/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore environment files
+.env
+
+# Ignore log files
+*.log
+=======
+# Ignore Eclipse-specific files
+.classpath
+.project
+.settings/
+
+# Ignore compiled files
+bin/
+
+# Ignore OS-specific files
+*.DS_Store
+Thumbs.db
